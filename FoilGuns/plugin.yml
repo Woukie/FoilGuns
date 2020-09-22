@@ -1,0 +1,13 @@
+name: FoilGuns
+version: 0.6
+main: main.Main
+description: A heavily customisable plugin focused on giving you the most control over your weapons!
+author: Woukie
+load: POSTWORLD
+database: false
+prefix: [FoilGuns] 
+api-version: 1.13
+commands:
+  gun:
+    description: Create, customise and delete guns with this.
+    usage: /gun [Args]
