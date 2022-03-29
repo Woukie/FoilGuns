@@ -1,4 +1,5 @@
 # FoilGuns
+## by Lucas Eldon
 A project I did earlier this year (an unfinished minecraft java plugin for customisable weapons)
 Feel free to learn/modify/reuse code from this, this was my last java edition project before moving to bedrock
 
